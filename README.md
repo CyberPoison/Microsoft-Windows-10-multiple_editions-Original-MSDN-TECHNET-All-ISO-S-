@@ -199,7 +199,7 @@ SHA1: D5BE091FE02F748A535FA0C5AF47F14E904F326E
 https://mega.co.nz/#!NEJhxCBL!2TWaHmAOIHcvzB7z4ssUqc8ZaArqF8Pb2qWwBZuKlz0
  [/spoiler]
  
-
+----------------------
 MSDN; 
 
 File Name:  de_windows_10_multiple_editions_x86_dvd_6846958.iso
@@ -215,7 +215,7 @@ SHA1: DB5EB33230CFC1B03E0B7560892F4EB41D480C0B
 https://mega.co.nz/#!EcoGXbBI!TJWAjj-1CAKCSPeyMBM5r0wBOj56PrJsFp4iEeP_4po
  [/spoiler]
  
-
+----------------------
 MSDN; 
 
 File Name:  de_windows_10_n_multiple_editions_x64_dvd_6846944.iso
@@ -230,7 +230,7 @@ SHA1: 29DD97304F839AE1B749F33848EEB69CF21C15C4
 https://mega.co.nz/#!wJ5FHTpY!esBrKuXBAbVOSeJmUj8B5xOSOmOLDSXLjfWJFW3R2R8
  [/spoiler]
  
-
+----------------------
 MSDN; 
 
 File Name:  de_windows_10_n_multiple_editions_x86_dvd_6846948.iso
@@ -250,7 +250,7 @@ https://mega.co.nz/#!MQxilSYB!gZHLgVMYQO6nEqV6vlNvsoB-tr4YYjvq0tNy3Uyklh4
 
 ----------------------------||-----------------------------||--------------------------------||--------------------
 
-
+----------------------
 [NAO ORIGINAL OU ALTERADO;] 
 
 File Name:  es_windows_10_multiple_editions_x86_dvd_6847136.zip
@@ -266,6 +266,7 @@ SHA1: FICHEIRO NAO ORIGINAL
 https://mega.co.nz/#!fsAXECCJ!iAdjD4v2LTXc7ucWHaGU7tXr2k03SJ3aGHC8tiLj2nA
  [/spoiler]
 
+----------------------
 [NAO ORIGINAL OU ALTERADO;] 
 
 File Name:  es_windows_10_multiple_editions_x64_dvd_6847131.zip
@@ -281,7 +282,7 @@ SHA1: FICHEIRO NAO ORIGINAL
 https://mega.co.nz/#!DhACVJKB!fwzRZDKlkzjAgpMTn-g6QYwHpKlVrkWajsm4_dosPN0
  [/spoiler]
  
-
+----------------------
 [NAO ORIGINAL OU ALTERADO;] 
 
 File Name:  es_windows_10_n_multiple_editions_x86_dvd_6847082.zip
@@ -297,6 +298,7 @@ SHA1: FICHEIRO NAO ORIGINAL
 https://mega.co.nz/#!fgowFA5Y!n3Lf4JLC5w05le5-iatUkzMQaxGvB3307_dmKZHxugE
  [/spoiler]
 
+----------------------
 [NAO ORIGINAL OU ALTERADO;] 
 
 File Name:  es_windows_10_n_multiple_editions_x64_dvd_6847075.zip 
@@ -312,6 +314,7 @@ SHA1: FICHEIRO NAO ORIGINAL
 https://mega.co.nz/#!jxYDTbBY!8xnDLkgZFH0aGPmicECVuBJX68qa8zkRZdwHfmTCdDI
  [/spoiler]
 
+----------------------
 [NAO ORIGINAL OU ALTERADO;] 
 
 File Name:  es-mx_windows_10_multiple_editions_x64_dvd_6847141.zip
@@ -327,6 +330,7 @@ SHA1: FICHEIRO NAO ORIGINAL
 https://mega.co.nz/#!ncFDGJ4Z!dRA626wtWBJqp7_JNYlRPDVLWptvFf9cIkOoOtPOh7c
  [/spoiler]
 
+----------------------
 [NAO ORIGINAL OU ALTERADO;] 
 
 File Name:  es-mx_windows_10_multiple_editions_x86_dvd_6847145.zip
@@ -345,7 +349,7 @@ https://mega.co.nz/#!rRcxDBwR!2zSNahFYAlzeA8xc6diTYiM1PpH8jeJyCWA_6mMXdd0
 
 ----------------------------||---------------------------------||-------------------------------------
  
- 
+----------------------
 MSDN; 
 
 File Name:  el_windows_10_multiple_editions_x64_dvd_6846963.iso
@@ -361,7 +365,7 @@ SHA1: 2D09B8D83A6D57E0A8D227D59C8BEBE7D9E6D353
 https://mega.nz/#!VhxBnTxB!mvLK-azqswgyXWKNYfcxqxgcsxQLfrQNkfsRfden9LA
  [/spoiler]
  
-
+----------------------
 MSDN; 
 
 File Name:  el_windows_10_multiple_editions_x86_dvd_6846967.iso
@@ -378,6 +382,7 @@ SHA1:  0A4DE4146477B5D8591722451BAD59FAC72A52F4
 https://mega.nz/#!ZlRBGAZJ!7kqZO6THmF3_pN_1S8s3mvV7z1PvleEihivEEe8OcMc
  [/spoiler]
 
+----------------------
 MSDN; 
 
 File Name:  ar_windows_10_multiple_editions_x64_dvd_6846852.iso
@@ -394,6 +399,7 @@ SHA1:  2366FC820286E1DB982CFF509762FF0EC8A422A4
 https://mega.nz/#!l8gT2ADK!eI7SCy_fQzXv0iQsFtPPiOy6gbDpQPxVHhb1tBVstpc
  [/spoiler]
 
+----------------------
 MSDN; 
 
 File Name:  ar_windows_10_multiple_editions_x86_dvd_6846854.iso
@@ -410,6 +416,7 @@ SHA1:  DB001CCCCDD452A5A2D2C38F31FE1BA1C405E432
 https://mega.nz/#!ttpG0bqT!DA8xG49ExSmMHj8JHuwAqLTDhCHSgRFGz3_tvtI9yUA
  [/spoiler]
 
+----------------------
 MSDN; 
 
 File Name:  fr_windows_10_multiple_editions_x64_dvd_6846939.iso
@@ -426,6 +433,7 @@ SHA1:  BAA91BA8001444551377A873B009E02FA800C329
 https://mega.nz/#!8s4AkaDK!45ZG2JisLsK3fG_Ipo0Q9WBL2xHJGlrn7RNcD9QXBys
  [/spoiler]
 
+----------------------
 MSDN;
 
 File Name:  fr_windows_10_multiple_editions_x86_dvd_6853667.iso
@@ -442,6 +450,7 @@ SHA1:  C08786B9209A3A1078A0F149EBA0FF5A17BC3E3B
 https://mega.co.nz/#!2E1ywYhI!bgjy8e73Hd5ymeU3Llxzel2Y3QqoW7SU9_gu3AqG6uw
  [/spoiler]
 
+----------------------
 MSDN;
 
 File Name:  en_windows_10_multiple_editions_x64_dvd_6846432.iso
@@ -459,6 +468,7 @@ SHA1:  60CCE9E9C6557335B4F7B18D02CFE2B438A8B3E2
 https://mega.nz/#!EBpnQZSI!ptyWCAXKnYJU8iBfXNhHZ5Y_cHXUu8NSRpwsh7lH7vY
  [/spoiler]
 
+----------------------
 MSDN; 
 
 File Name:  en_windows_10_multiple_editions_x86_dvd_6848465.iso
@@ -474,6 +484,7 @@ SHA1:  D927A91E1DD7D9C6023D0DA1DBCB16DEFEC5B6C1
 https://mega.nz/#!ZZA0QACa!4AvBM-6YIkUslhXHXUlZcdlpaNollnRgdz7sH9pOYiQ
  [/spoiler]
 
+----------------------
 MSDN;
 
 File Name:  en-gb_windows_10_multiple_editions_x64_dvd_6846903.iso
@@ -490,6 +501,7 @@ SHA1:  3E4734DE476327F67D2E97CDEADEDB4BEA98623C
 https://mega.nz/#!tlJ31LAA!XhYRZNhWM1uA2dZsUNI4I-HPgjKhu07c7KTiG5O2Ksk
  [/spoiler]
 
+----------------------
 MSDN; 
 File Name:  en-gb_windows_10_multiple_editions_x86_dvd_6846906.iso
 
@@ -505,6 +517,7 @@ SHA1:  DA7F63166DB9ABB9B613F302866D1B0A8F686646
 https://mega.nz/#!o4BDhJiJ!t8hyUyt6WVHKzQOoJPMqiJ8D0jqkwvDPwrw3t0m_gk8
  [/spoiler]
 
+----------------------
 MSDN; 
 
 File Name:  it_windows_10_multiple_editions_x64_dvd_6846987.iso
@@ -519,6 +532,7 @@ SHA1:  E207BDB15C1AE86C3219C852AC38DCCC5DD2EBDB
 https://mega.nz/#!I9gVxJyJ!CfQeghFciD9zfH1ntoFUTERZUxQ3FnDaGufRuWTS1LY
  [/spoiler]
 
+----------------------
 MSDN; 
 
 File Name:  it_windows_10_multiple_editions_x86_dvd_6847001.iso
@@ -535,6 +549,7 @@ SHA1:  8E0A935A256430285B71B0D75CDDFBD6BCE6B7C2
 https://mega.nz/#!8ox0TbyC!5hlM6_RGN8rkDeOMb1UGnKbAGZcVFNosAdkHdKjX1u0
  [/spoiler]
 
+----------------------
 MSDN; 
 
 File Name: pt_windows_10_multiple_editions_x64_dvd_6847079.iso
@@ -551,7 +566,7 @@ SHA1:  45B7578F3B03ABAF554EFEF752F85A4A0E208F3F
 https://mega.nz/#!ZVwHWJLD!wqddrM-Cofd5qdeTnhlphaLuXcWc-xb6ZlaZc6oK_Wo
  [/spoiler]
  
-
+----------------------
 MSDN; 
 
 File Name: pt_windows_10_multiple_editions_x86_dvd_6847086.iso
@@ -568,6 +583,7 @@ SHA1:  7E400BEC8851497CB05923F9D56B731E1B7C5F7C
 https://mega.nz/#!oRoyFY5I!COuL1tXPBhaC3NW3q5xEZ5gFVxMdmeEtOx121IVQEzI
  [/spoiler]
 
+----------------------
 MSDN; 
 
 File Name: ja_windows_10_multiple_editions_x64_dvd_6847015.iso
@@ -584,6 +600,7 @@ SHA1:  7A0B55F969E513D366543F099B2BFAE4357E7A40
 https://mega.nz/#!BZ40DBLD!sIU9sVvaCVxMV6WkuKEpB5HIHbY3snJjL6YwHbL-_g0
  [/spoiler]
 
+----------------------
 MSDN;
 
 File Name: ja_windows_10_multiple_editions_x86_dvd_6847020.iso
@@ -604,7 +621,7 @@ https://mega.nz/#!Rcp2SJYQ!cknSlnh9QhmWGHBaYs2BJKi_NTxGPZ3F9ko19lkdy_g
 =======================||PORTUGUES-PORTUGAL||=============================
 =======================||PORTUGUES-PORTUGAL||=============================
  
-
+----------------------
 MSDN; 
 
 File Name: pp_windows_10_multiple_editions_x64_dvd_6847090.iso
@@ -621,6 +638,7 @@ SHA1:  EAC72348318ECDC333953DB487AF6AFF1226ABDD
 https://mega.nz/#!cdR1BRTQ!DnRygm-GJSjcLImIVIvCDzobTQou4pozFDGAD5vIp6c
  [/spoiler]
 
+----------------------
 MSDN; 
 
 File Name: pp_windows_10_multiple_editions_x86_dvd_6847095.iso
@@ -641,7 +659,7 @@ https://mega.nz/#!YVxFUCCK!OcBXXcXKnzGopXct-Lo265EFOZK24swJuJjXJIec7WI
 ==============================================||END||============================================
  
 
- 
+ ----------------------
 MSDN; 
 
 File Name: tr_windows_10_multiple_editions_x64_dvd_6847169.iso
@@ -658,7 +676,7 @@ SHA1:  86D467FBB2AE7C9C5010B54374AC25838FDA3412
 https://mega.nz/#!hUwwmRZL!aPd2SEUmrdk5ynWEfjc_8DD4ZO5kyLF5rYvwFbXbyXk
  [/spoiler]
  
-
+----------------------
 MSDN; 
 
 File Name: tr_windows_10_multiple_editions_x86_dvd_6847174.iso
