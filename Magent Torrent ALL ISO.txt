@@ -1,0 +1,329 @@
+Windows 10 Build 10240 Multiple Editions x64 (Pro-Home)
+ 
+File Name: ar_windows_10_multiple_editions_x64_dvd_6846852.iso
+Languages: Arabic
+SHA1: 2366FC820286E1DB982CFF509762FF0EC8A422A4
+magnet:?xt=urn:btih:52a46e9e02cf6b115eef9ada78c09823ffbc29d0&dn=ar%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846852.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: en_windows_10_multiple_editions_x64_dvd_6846432.iso
+Languages: English
+SHA1: 60CCE9E9C6557335B4F7B18D02CFE2B438A8B3E2
+magnet:?xt=urn:btih:3fb902d62ae3a20daf5d80ae878355c3a9a9249f&dn=en%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846432.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: en_windows_10_n_multiple_editions_x64_dvd_6846434.iso
+Languages: English
+SHA1: A038780A94EE490F288530A24464AE54C604A292
+magnet:?xt=urn:btih:558ce04cf534eb9e7c5c7639c86784c6cd1ec9e7&dn=en%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846434.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: en-gb_windows_10_multiple_editions_x64_dvd_6846903.iso
+Languages: English
+SHA1: 3E4734DE476327F67D2E97CDEADEDB4BEA98623C
+magnet:?xt=urn:btih:3bded271fef4d231db07b41b6c39872026a4a99b&dn=en-gb%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846903.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: en-gb_windows_10_n_multiple_editions_x64_dvd_6846897.iso
+Languages: English
+SHA1: 02DBB2DBA9992605CBB867C323C60F622B7206FE
+magnet:?xt=urn:btih:2b1e59cbd64a072a2419bac7b93ce16064e27bb4&dn=en-gb%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846897.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: en_windows_10_symbols_x64_6903177.msi
+Languages: English
+SHA1: 98E4E71FC2B7070ECE91AEB0C84223F6CFB2487A
+magnet:?xt=urn:btih:2d0cd4792c142c512fda4a0052a3c437beba2fbc&dn=en%5Fwindows%5F10%5Fsymbols%5Fx64%5F6903177.msi&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: bg_windows_10_multiple_editions_x64_dvd_6853850.iso
+Languages: Bulgarian
+SHA1: 00981821688A6DF8837E082676A0848663074D0C
+magnet:?xt=urn:btih:7bc12bc564049f7d680dd3bbe81d7c9f10998d9d&dn=bg%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6853850.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: bg_windows_10_n_multiple_editions_x64_dvd_6846862.iso
+Languages: Bulgarian
+SHA1: CD07FE134488DD28DBEBB264B21CEB0ABDDDFC38
+magnet:?xt=urn:btih:7195257cf6888484cf2134e3d6fd0f1beafb10cb&dn=bg%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846862.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: hk_windows_10_multiple_editions_x64_dvd_6846860.iso
+Languages: Chinese - Hong Kong SAR
+SHA1: AE7728C1ABD78BAB04C06A9F4418DDD27C284811
+magnet:?xt=urn:btih:4e46a40e8013d84e5499f3ff40f3343c8ebedb49&dn=hk%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846860.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: cn_windows_10_multiple_editions_x64_dvd_6848463.iso
+Languages: Chinese - Simplified
+SHA1: C71D49A6144772F352806201EF564951BE55EDD5
+magnet:?xt=urn:btih:42725c0df91eed7e2265edcf35634c4a19ebcf2b&dn=cn%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6848463.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: tw_windows_10_multiple_editions_x64_dvd_6846864.iso
+Languages: Chinese - Traditional
+SHA1: E76B1C0462F23819D53DE39B57339B839916CA95
+magnet:?xt=urn:btih:2f4e7166d10d1dcdbdeb70f901dc55d39cf4a310&dn=tw%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846864.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: hr_windows_10_multiple_editions_x64_dvd_6846869.iso
+Languages: Croatian
+SHA1: BF864346A91932B107F0D67F5952C124CE7E318C
+magnet:?xt=urn:btih:a0e8b93cba532635cb42827b734dd571defe7efa&dn=hr%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846869.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: hr_windows_10_n_multiple_editions_x64_dvd_6846867.iso
+Languages: Croatian
+SHA1: 364E5A74D3B30D51D98C747679DD44A31BB82F8A
+magnet:?xt=urn:btih:b58534c8b17336608c01f251a7a2d9e9e022cf13&dn=hr%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846867.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: cs_windows_10_multiple_editions_x64_dvd_6846874.iso
+Languages: Czech
+SHA1: 5B607FADB2262A458D5FA6F1B401F25A2F16BDD6
+magnet:?xt=urn:btih:e233691c8a0ee4d373f6af16bb1e1cc62cc5680e&dn=cs%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846874.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: cs_windows_10_n_multiple_editions_x64_dvd_6846872.iso
+Languages: Czech
+SHA1: 1D8E567F84062E117C36D7FC3552396367FCFCB4
+magnet:?xt=urn:btih:fca4e3de0d4b71676ed25a3e86575e34c8cec23f&dn=cs%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846872.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: da_windows_10_multiple_editions_x64_dvd_6846880.iso
+Languages: Danish
+SHA1: 31EA9E979852A57FD132BA65BAE8E7A5D4E04999
+magnet:?xt=urn:btih:9888cf5c0edaf42cfa7a7c19077258fb4e146f32&dn=da%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846880.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: da_windows_10_n_multiple_editions_x64_dvd_6846879.iso
+Languages: Danish
+SHA1: A1B71672291FD932AC8DC9E07882EAD15EC4F301
+magnet:?xt=urn:btih:2f1cdda1079c8252a793857be6924801e63b024c&dn=da%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846879.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: nl_windows_10_multiple_editions_x64_dvd_6846887.iso
+Languages: Dutch
+SHA1: 61CECE59E144891B96A9D2C97E8134EAD948B879
+magnet:?xt=urn:btih:2862b0679b052f359059688e138803a419212891&dn=nl%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846887.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: nl_windows_10_n_multiple_editions_x64_dvd_6846884.iso
+Languages: Dutch
+SHA1: F7408C65BC9A799A726CC8E655152E3FAE8EEA9C
+magnet:?xt=urn:btih:b8cd52057a2bc81ab052637259d6550e2cc25394&dn=nl%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846884.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: et_windows_10_multiple_editions_x64_dvd_6846909.iso
+Languages: Estonian
+SHA1: F08C52D8DC1C31627E51AAE51D45305040FB6C3B
+magnet:?xt=urn:btih:cc8ef39a29510a7ad1fa0959f77061faa8734f5e&dn=et%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846909.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: et_windows_10_n_multiple_editions_x64_dvd_6846907.iso
+Languages: Estonian
+SHA1: 0781E949318704E16BA34DC69B317FD456F88DB3
+magnet:?xt=urn:btih:8c8c9b4ba41926ebe36a99bc8356c5d88585a360&dn=et%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846907.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: fi_windows_10_multiple_editions_x64_dvd_6846924.iso
+Languages: Finnish
+SHA1: AD7F5825169DCDFC5A1CB6D9BD1D4CE593937511
+magnet:?xt=urn:btih:4aab68aaf228e9da6ba63f22d9f790fd21473429&dn=fi%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846924.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: fi_windows_10_n_multiple_editions_x64_dvd_6846917.iso
+Languages: Finnish
+SHA1: A093624A9806BE8B86B7316C2B6C292942A5B2A4
+magnet:?xt=urn:btih:9029cce0db792ccb56417c0ccc4068cfa245cc3e&dn=fi%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846917.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: fr_windows_10_multiple_editions_x64_dvd_6846939.iso
+Languages: French
+SHA1: BAA91BA8001444551377A873B009E02FA800C329
+magnet:?xt=urn:btih:d6804c4cd3f60bb3b085903ceb6b87a3a867a712&dn=fr%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846939.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: fr-ca_windows_10_multiple_editions_x64_dvd_6846947.iso
+Languages: French
+SHA1: 3F51798A5D4EC34AA5F0207D8C68B81673FBC1D8
+magnet:?xt=urn:btih:f1f4ba523bec4e7e0201c8024a954b76e2de578d&dn=fr-ca%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846947.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: fr_windows_10_n_multiple_editions_x64_dvd_6846934.iso
+Languages: French
+SHA1: D29601340886A9FAC7833679B9310138119805E4
+magnet:?xt=urn:btih:acd4cac8d9430bd258f9b0bdec488fe33132ce48&dn=fr%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846934.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: de_windows_10_multiple_editions_x64_dvd_6846954.iso
+Languages: German
+SHA1: D5BE091FE02F748A535FA0C5AF47F14E904F326E
+magnet:?xt=urn:btih:5c57d6440b6448538448772341d498ab62327c0f&dn=de%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846954.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: de_windows_10_n_multiple_editions_x64_dvd_6846944.iso
+Languages: German
+SHA1: 29DD97304F839AE1B749F33848EEB69CF21C15C4
+magnet:?xt=urn:btih:561e71c4175bb6c59431c1dc66d69a252edf744d&dn=de%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846944.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: el_windows_10_multiple_editions_x64_dvd_6846963.iso
+Languages: Greek
+SHA1: 2D09B8D83A6D57E0A8D227D59C8BEBE7D9E6D353
+magnet:?xt=urn:btih:af00327e91bb202fd903a0a76fcac9c69800823b&dn=el%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846963.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: el_windows_10_n_multiple_editions_x64_dvd_6846952.iso
+Languages: Greek
+SHA1: 55B99C96672B87DBDF8660112A58F9C4AEE37DD4
+magnet:?xt=urn:btih:f62a7ae635bb0d5303f143a1dfb4ef3cef6c2f9a&dn=el%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846952.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: he_windows_10_multiple_editions_x64_dvd_6853674.iso
+Languages: Hebrew
+SHA1: DF55D4D2A52258EAC5BFD202968E8633F79D4993
+magnet:?xt=urn:btih:61de710b172dbe51c1f1580583d8fc9bc8c14ad2&dn=he%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6853674.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: hu_windows_10_multiple_editions_x64_dvd_6846979.iso
+Languages: Hungarian
+SHA1: 3049B4E0DD9516AD63F824CAF4C5164945C1CB88
+magnet:?xt=urn:btih:431e302c4a83909578694b590d8bab53c30cc1aa&dn=hu%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846979.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: hu_windows_10_n_multiple_editions_x64_dvd_6846961.iso
+Languages: Hungarian
+SHA1: D493728209937B69D2256E8B6E91852C26A3A668
+magnet:?xt=urn:btih:b8add89b2221c3401736ce11f78ba4120899a0da&dn=hu%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846961.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: it_windows_10_multiple_editions_x64_dvd_6846987.iso
+Languages: Italian
+SHA1: E207BDB15C1AE86C3219C852AC38DCCC5DD2EBDB
+magnet:?xt=urn:btih:a6933d4a5f9188727ced946470dd19da6cffec15&dn=it%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846987.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: it_windows_10_n_multiple_editions_x64_dvd_6846968.iso
+Languages: Italian
+SHA1: C6F2346D02ACB73AD1012899933E43CE9C82AA32
+magnet:?xt=urn:btih:adb7e91b25ba7f38ded633a71f90b334b4548e11&dn=it%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846968.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: ja_windows_10_multiple_editions_x64_dvd_6847015.iso
+Languages: Japanese
+SHA1: 7A0B55F969E513D366543F099B2BFAE4357E7A40
+magnet:?xt=urn:btih:7451b3d333b5020e8b9c961a616ff706ce908f47&dn=ja%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847015.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: ko_windows_10_multiple_editions_x64_dvd_6847024.iso
+Languages: Korean
+SHA1: 11A0B50EC2BD1FC364D0C7648BC9D64125A53D25
+magnet:?xt=urn:btih:85a633e9a2d3f9a97361d8a8d9567701e17b7eb8&dn=ko%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847024.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: ko_windows_10_kn_multiple_editions_x64_dvd_6848480.iso
+Languages: Korean
+SHA1: E4B569FF64D3775A84BB9DD297134BCCC3A07D2E
+magnet:?xt=urn:btih:5689904eb152facdb3ad46c7ee871b0a16820920&dn=ko%5Fwindows%5F10%5Fkn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6848480.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: lv_windows_10_multiple_editions_x64_dvd_6847029.iso
+Languages: Latvian
+SHA1: FAF26FDB9D52C48E63DCE89934CBCDD837890E02
+magnet:?xt=urn:btih:b1ffefd39f87ad344fa07f588bd7c52588e64d1e&dn=lv%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847029.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: lv_windows_10_n_multiple_editions_x64_dvd_6846976.iso
+Languages: Latvian
+SHA1: B2721996F5DFD9DB29BA318C970078A10463E6FD
+magnet:?xt=urn:btih:5a6766fe8b60883e5c800051b54695400b53367e&dn=lv%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846976.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: lt_windows_10_multiple_editions_x64_dvd_6847036.iso
+Languages: Lithuanian
+SHA1: D409CB84D1A24E1BBC02285DCED26DBEC858FD06
+magnet:?xt=urn:btih:1179d87c1d7bb2499985e9e1a2b17018cd6a65bb&dn=lt%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847036.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: lt_windows_10_n_multiple_editions_x64_dvd_6846984.iso
+Languages: Lithuanian
+SHA1: 5667F5125C966AF67677B172802F093D2334505E
+magnet:?xt=urn:btih:5db4064d95ab02fd43a5665c272a48f86535517a&dn=lt%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6846984.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: nb_windows_10_multiple_editions_x64_dvd_6847044.iso
+Languages: Norwegian-Bokmal
+SHA1: 67308B271A3FE9B7B88B4EE93108361386FBE66A
+magnet:?xt=urn:btih:0bb11043aef64b866ca26e19826f6aa8f48101f2&dn=nb%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847044.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: nb_windows_10_n_multiple_editions_x64_dvd_6847007.iso
+Languages: Norwegian-Bokmal
+SHA1: ACF6BF6836F240BA5735C07701775BD6DB80AADA
+magnet:?xt=urn:btih:b1046dca8381df223a39f6d98a940aa9a97f5657&dn=nb%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847007.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: pl_windows_10_multiple_editions_x64_dvd_6847052.iso
+Languages: Polish
+SHA1: 4CBFF26FEB01A65198DAACF16F4D574390440EDD
+magnet:?xt=urn:btih:97062bbf6ab221fba57630f54493356064811156&dn=pl%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847052.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: pl_windows_10_n_multiple_editions_x64_dvd_6847021.iso
+Languages: Polish
+SHA1: D4BE054D6AE621E86A071E91231630278FA50414
+magnet:?xt=urn:btih:d10352442c65f39bf5da8a6c49676aa86a256aa3&dn=pl%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847021.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: pt_windows_10_multiple_editions_x64_dvd_6847079.iso
+Languages: Portuguese-Brazil
+SHA1: 45B7578F3B03ABAF554EFEF752F85A4A0E208F3F
+magnet:?xt=urn:btih:08e9d1315b5674362e0a9fdb57775bd02ccaa577&dn=pt%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847079.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: pp_windows_10_multiple_editions_x64_dvd_6847090.iso
+Languages: Portuguese-Portugal
+SHA1: EAC72348318ECDC333953DB487AF6AFF1226ABDD
+magnet:?xt=urn:btih:9fd508956000a6c70e73ac724a681fa992d6da8f&dn=pp%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847090.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: pp_windows_10_n_multiple_editions_x64_dvd_6847027.iso
+Languages: Portuguese-Portugal
+SHA1: 91D2176F2F4A94E292CCD617591A55E26F6CB7F5
+magnet:?xt=urn:btih:f51d58ca11fcae6eba00d6b53caf4503b3c22e54&dn=pp%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847027.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: ro_windows_10_multiple_editions_x64_dvd_6847097.iso
+Languages: Romanian
+SHA1: F173A131375D13FD17E3A7026ED32EF802AE6267
+magnet:?xt=urn:btih:fcd657008da4e4f2f1ba409c50ffe7ab155dbeb9&dn=ro%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847097.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: ro_windows_10_n_multiple_editions_x64_dvd_6847034.iso
+Languages: Romanian
+SHA1: 985130C4DA9DDD98AC59DB0F5C43D7FBA4C63AB5
+magnet:?xt=urn:btih:2a5942e7eff5f140fd81c4069cfc29568a8b967d&dn=ro%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847034.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: ru_windows_10_multiple_editions_x64_dvd_6847101.iso
+Languages: Russian
+SHA1: F6C5A7A4235F739C7B165475E656BB7A0116B8B0
+magnet:?xt=urn:btih:352c03fb1713555bba1a9b0ada613d094ab8361e&dn=ru%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847101.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: sr-latn_windows_10_multiple_editions_x64_dvd_6847105.iso
+Languages: Serbian
+SHA1: 4B51AB991F60AF350BCA63C300AB1B12CC188234
+magnet:?xt=urn:btih:a9dd7c9e068bb43b3f03904592d2cd5f51b88c08&dn=sr-latn%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847105.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: sk_windows_10_multiple_editions_x64_dvd_6847112.iso
+Languages: Slovak
+SHA1: E64CC819509452B548F0A5D345A4A620367D33EB
+magnet:?xt=urn:btih:8da231ca2e452c4990578bd3eb32434057d21470&dn=sk%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847112.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: sk_windows_10_n_multiple_editions_x64_dvd_6847041.iso
+Languages: Slovak
+SHA1: A99F50D45D8DAC15D400A36D1D7666EE9B880E09
+magnet:?xt=urn:btih:6c0759740122de62c65667ce6e870f69602d467a&dn=sk%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847041.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: sl_windows_10_multiple_editions_x64_dvd_6847121.iso
+Languages: Slovenian
+SHA1: C6A643AD9159CF3F3F6B1513534333C8595CEFD2
+magnet:?xt=urn:btih:565b1cc72342b3d7608808adeb9c023fc4e5fd7c&dn=sl%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847121.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: sl_windows_10_n_multiple_editions_x64_dvd_6847049.iso
+Languages: Slovenian
+SHA1: F56BC41B46F5E254610954D23FA413999A045482
+magnet:?xt=urn:btih:a1ee6daa192ee42dcf41cb57b42955be5c07b8b2&dn=sl%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847049.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: es-mx_windows_10_multiple_editions_x64_dvd_6847141.iso
+Languages: Spanish
+SHA1: 3044D30045D0AA5DEEEC3BAD7664E96B9874BE90
+magnet:?xt=urn:btih:509a77184b328d793c013105834f30b865f57b4e&dn=es-mx%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847141.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: es_windows_10_multiple_editions_x64_dvd_6847131.iso
+Languages: Spanish
+SHA1: AFB49A6120DB321ED9B75FF32FDE3FAEDE44EB13
+magnet:?xt=urn:btih:961db410786c2a222e8b429b3cf3c566cb04bc83&dn=es%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847131.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: es_windows_10_n_multiple_editions_x64_dvd_6847075.iso
+Languages: Spanish
+SHA1: 4E271E65F659205A6D55FDACFA9A431F32FADC6D
+magnet:?xt=urn:btih:935750d67ec3ce0b40a3e838861625a9f322d88d&dn=es%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847075.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: sv_windows_10_multiple_editions_x64_dvd_6847150.iso
+Languages: Swedish
+SHA1: 4DA21F2AFFCB5F6C373064CF5D85E4376444C231
+magnet:?xt=urn:btih:0f1a4f25ca3634d758a7e5162ec6337df608b7e8&dn=sv%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847150.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: sv_windows_10_n_multiple_editions_x64_dvd_6847088.iso
+Languages: Swedish
+SHA1: 20D7477D154D9042087F07C17011200DBEB143DA
+magnet:?xt=urn:btih:a0c25f307ad8b4f339b5108493c8579d693ab968&dn=sv%5Fwindows%5F10%5Fn%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847088.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: th_windows_10_multiple_editions_x64_dvd_6847160.iso
+Languages: Thai
+SHA1: 1A18E089D9B0EF810B2FDAE077AF035FD15C9DE3
+magnet:?xt=urn:btih:cbe00a3923c132c554df013761b3a2cf44134199&dn=th%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847160.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: tr_windows_10_multiple_editions_x64_dvd_6847169.iso
+Languages: Turkish
+SHA1: 86D467FBB2AE7C9C5010B54374AC25838FDA3412
+magnet:?xt=urn:btih:445468d05aab5fc478c85ae13097efbf989fbdf1&dn=tr%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847169.iso&tr=udp://open.demonii.com:1337/announce
+ 
+File Name: uk_windows_10_multiple_editions_x64_dvd_6847178.iso
+
+Languages: Ukrainian
+
+SHA1: 4EA76080D789CCE28BF707185E60271D8B532B69
+
+magnet:?xt=urn:btih:86017ec03fc663ae9e0919bfbe3155c4a4a841a2&dn=uk%5Fwindows%5F10%5Fmultiple%5Feditions%5Fx64%5Fdvd%5F6847178.iso&tr=udp://open.demonii.com:1337/announce
