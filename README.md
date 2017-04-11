@@ -24,7 +24,7 @@ Microsoft Windows 10 HOME & PRO EDITION,
                                                                                Bit: 32x & 64x
  
  
-------------START----------
+------------start--------------
  
 MSDN; 
 
@@ -599,8 +599,10 @@ SHA1:  9F425A21873A8A5FB40B0F6B849EDA325A6A57FC
 [spoiler]Link:
 https://mega.nz/#!Rcp2SJYQ!cknSlnh9QhmWGHBaYs2BJKi_NTxGPZ3F9ko19lkdy_g
  [/spoiler]
-====================================||PORTUGUES-PORTUGAL||=============================
-====================================||PORTUGUES-PORTUGAL||=============================
+
+
+=======================||PORTUGUES-PORTUGAL||=============================
+=======================||PORTUGUES-PORTUGAL||=============================
  
 
 MSDN; 
